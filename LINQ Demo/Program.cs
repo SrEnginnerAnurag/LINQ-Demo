@@ -9,6 +9,7 @@ namespace LINQ_Demo
             Console.WriteLine("Hello, World!");
            LINQ_CLass lINQ_CLass = new LINQ_CLass();
             lINQ_CLass.LINQMethod();
+            lINQ_CLass.mthod();
         }
     }
 }

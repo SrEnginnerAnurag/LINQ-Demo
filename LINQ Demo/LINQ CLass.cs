@@ -55,6 +55,7 @@ namespace LINQ_Demo
 
 
         }
+        public void mthod() { }
         
     }
 }
